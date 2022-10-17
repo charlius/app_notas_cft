@@ -1,4 +1,4 @@
-# prueba1_fluttter
+# notas y horario del cft san agustin 
 
 A new Flutter project.
 
